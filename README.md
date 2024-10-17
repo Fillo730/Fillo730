@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Fillo730.
-- 👀 I’m interested in learning and reading stuff
-- 🌱 I’m currently learning React, Blazor and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Fillo730/Fillo730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋, I’m Fillo. I'm a computer engineering student and work as a software engineer in Italy, where I'm from. 
+I'm interested in reading books, going to the gym, and learning new things. Currently, 
+I'm focusing on React, Blazor, and C#. Throughout my academic journey, I’ve learned and practiced many other technologies and programming languages.
