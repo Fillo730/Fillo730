@@ -1,3 +1,18 @@
-Hi 👋, I’m Fillo. I'm a computer engineering student and work as a software engineer in Italy, where I'm from. 
-I'm interested in reading books, going to the gym, and learning new things. Currently, 
-I'm focusing on React, Blazor, and C#. Throughout my academic journey, I’ve learned and practiced many other technologies and programming languages.
+👋 Hi, I’m Fillo
+🎓 Computer Engineering Student | 💻 Software Engineer | 🇮🇹 Italy
+
+🚀 About Me
+📚 Passionate about learning and technology
+🏋️‍♂️ Enjoy going to the gym and reading books
+🔍 Currently focusing on React + Astro, Bootstrap (front-end development)
+💡 Always exploring new technologies and programming languages
+
+🛠️ Technologies & Tools
+🔹 Frontend: HTML, CSS, JS, React, Bootstrap, Astro
+🔹 Programming Languages: Java, C, C#, Python, SQL
+🔹 Technologies: Vite, Git
+
+🌍 Languages
+🗣️ Italian (Native)
+🗣️ English (Proficient)
+🗣️ German (Learning)
